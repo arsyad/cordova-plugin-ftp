@@ -79,11 +79,7 @@ export interface FtpInterface {
 /**
  *
  * */
-export declare var cordova : {
-    plugin: {
-        ftp : FtpInterface
-    }
-};
+declare var cordova:any;
 
 /**
  * @constructor
