@@ -40,15 +40,15 @@ You can access this plugin by typescript class `Ftp`.
 #### Instalation
 ##### Using ionic-cli v3
 ```
-ionic cordova plugin add https://github.com/olaferlandsen/cordova-plugin-ftp.git
+ionic cordova plugin add https://github.com/arsyad/cordova-plugin-ftp.git
 ```
 ##### Using ionic-cli v2
 ```
-ionic plugin add https://github.com/olaferlandsen/cordova-plugin-ftp.git
+ionic plugin add https://github.com/arsyad/cordova-plugin-ftp.git
 ```
 ##### Using ionic-cli v1, phonegap-cli or cordova-cli
 ```
-cordova plugin add https://github.com/olaferlandsen/cordova-plugin-ftp.git
+cordova plugin add https://github.com/arsyad/cordova-plugin-ftp.git
 ```
 #### Import
 ##### from `providers/`, `pages/` or `app/`
